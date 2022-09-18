@@ -38,7 +38,7 @@ Return a JSON response by reading a local file using Node.js
 
 Request URL:-  [*http://localhost:8080/vegetables](http://localhost:8080/vegetables)* Request Method:- GET 
 
-Response JSON:- 
+Response JSON:-
 
 *{ ![](Aspose.Words.2b4a03a1-eb9a-488b-b0fa-dd3b2d0a3eda.005.png)*
 
